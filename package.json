@@ -1,0 +1,21 @@
+{
+  "name": "course-ecmascript",
+  "version": "1.0.0",
+  "description": "course_ecmascript_javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "git",
+    "github"
+  ],
+  "author": "Chris Velazquez <placebo0704@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
